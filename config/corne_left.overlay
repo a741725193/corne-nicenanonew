@@ -1,5 +1,6 @@
-#include "corneish_zen.dtsi"
+#include "corne.dtsi"
 #include <dt-bindings/led/led.h>
+#include <nordic/nrf52840_qiaa.dtsi>
 
 
 
